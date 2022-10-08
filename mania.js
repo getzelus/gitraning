@@ -1,0 +1,1 @@
+let mania = 1;
